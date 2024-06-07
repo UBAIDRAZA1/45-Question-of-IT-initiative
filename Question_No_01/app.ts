@@ -1,0 +1,1 @@
+// already Install node.js, typescript and VS code in laptop.
